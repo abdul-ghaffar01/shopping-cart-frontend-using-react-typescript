@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Iphone",
+    "price": 340000,
+    "imgUrl": "/imgs/iphone.png"
+  },
+  {
+    "id": 2,
+    "name": "Shirt",
+    "price": 5999,
+    "imgUrl": "/imgs/shirt.png"
+  },
+  {
+    "id": 3,
+    "name": "Laptop",
+    "price": 105000,
+    "imgUrl": "/imgs/laptop.png"
+  },
+  {
+    "id": 4,
+    "name": "Tablet",
+    "price": 140000,
+    "imgUrl": "/imgs/tablet.png"
+  }
+]
